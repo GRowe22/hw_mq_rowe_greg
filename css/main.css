@@ -4,6 +4,12 @@ body {
 
 @media (min-width: 675px) {
     body {
-        background-color: 2f3e55;
+        background-color: #2f3e55;
+    }
+}
+
+@media (min-width: 999px) {
+    body {
+        background-color: #f4f5f0;
     }
 }

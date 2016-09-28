@@ -11,6 +11,7 @@
 * [Stack Overflow](http://stackoverflow.com/questions/4885999/with-github-how-do-i-push-all-branches-when-adding-an-existing-repo) I wanted to look up how to push all branches and tags at once.
 
 ## Comments
+* I accidentally named a brach "checkout" that was supposed to be "combo"...must have had a command line mixed up when I created it.
 * Glad to finally get some information on responsive design, I will definitely be utilizing media queries in my future designs.
 * Instructions weren't quite clear on whether or not to place "display", but since it didn't, I figure the implied "all" would be fine.
 * Getting a little more comfortable with GitHub, specifically pushing information.
